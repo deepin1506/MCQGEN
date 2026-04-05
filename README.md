@@ -14,3 +14,4 @@ A Python project for learning Generative AI by building a multiple choice questi
 - Add more questions and logic.
 
 Happy learning GenAI!
+# MCQGEN
